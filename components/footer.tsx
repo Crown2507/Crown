@@ -168,7 +168,7 @@ export function Footer() {
           className="bg-green-500 hover:bg-green-600 text-white rounded-full w-14 h-14 p-0 shadow-lg hover:shadow-xl transition-all duration-300 animate-pulse hover:animate-none"
         >
           <a
-            href="https://wa.me/918428622862"
+            href="https://wa.me/911111111111"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Contact us on WhatsApp"

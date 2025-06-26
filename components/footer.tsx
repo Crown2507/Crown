@@ -43,7 +43,7 @@ export function Footer() {
                 <div className="flex items-center space-x-3">
                   <Mail size={18} className="text-yellow-400 flex-shrink-0" />
                   <a href="mailto:chennai@geniushairs.com" className="text-gray-300 hover:text-white transition-colors">
-                    chennai@geniushairs.com
+                    chennai@example.com
                   </a>
                 </div>
               </div>

@@ -68,9 +68,10 @@ export function Sidebar() {
 
           {expandedSections.price && (
             <div className="space-y-3">
-              <Slider value={priceRange} onValueChange={setPriceRange} max={200} min={10} step={5} className="w-full" />
+              <Slider value={priceRange} onValueChange={setPriceRange} max={200} min={10} step={1} className="w-full" />
+              
               <div className="flex justify-between text-sm text-gray-600">
-                <span>${priceRange[0]}</span>
+                <span>${priceRange[1]}</span>
                 <span>${priceRange[1]}</span>
               </div>
             </div>
